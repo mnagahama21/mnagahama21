@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1996<br>📚 I'm currently learning: azure, C++ <br>🎯 Goals:  work as an Azure DevOp and be a game developer.</p>
+<p align="left">✨ Creating bugs since 1996<br>📚 I'm currently learning: aws, java <br>🎯 Goals:  work as an Aws DevOp and be a game developer.</p>
 
 ###
 
@@ -18,10 +18,10 @@
 
 ###
 
-<div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
