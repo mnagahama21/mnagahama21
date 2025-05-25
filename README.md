@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1996<br>📚 I'm currently learning: C#, C++ and Java<br>🎯 Goals: work as a game developer and java backend.</p>
+<p align="left">✨ Creating bugs since 1996<br>📚 I'm currently learning: C#, C++ and Java<br>🎯 Goals: work as a game developer and backend developer.</p>
 
 ###
 
